@@ -2,9 +2,13 @@
 - 👀 I’m interested in phtotography, cooking, weightlifting, and of course, coding!
 - 🌱 I’m currently learning all things React JS.
 
-- Find the best places to eat, drink and have fun with Ravenous, built using React and utilizes the Yelp-API. https://ravenous-io.web.app  Hosted on firebase.
-- Create Spotify playlists on the go with Jammming, built using React and utilizes the Spotify-API. https://jammming-playlist.web.app  Hosted on Firebase.
 - Check out this Disney+ Clone I built using React, Redux, router and firebase Auth, Firestore and hosting. https://disney-plus-io.web.app
+- 
+- Create Spotify playlists on the go with Jammming, built using React and utilizes the Spotify-API. https://jammming-playlist.web.app  Hosted on Firebase.
+- 
+- Find the best places to eat, drink and have fun with Ravenous, built using React and utilizes the Yelp-API. https://ravenous-io.web.app  Hosted on firebase.
+
+
 
 
 
