@@ -1,23 +1,14 @@
-- 👋 Hi, I’m Dale Fitzgerald.
-- 👀 I’m interested in phtotography, cooking, weightlifting, and of course, coding!
-- 🌱 I’m currently learning all things React JS.
+Hi there, I'm [Dale Fitzgerald](https://www.linkedin.com/in/dale-fitzgerald)
+---
+Thanks for stopping by!
 
-- Check out my personal portfolio website here: https://dales-web-dev-portfolio.web.app
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=#21b791)
 
-- Check out this Disney+ Clone I built using React, Redux, router and firebase Auth, Firestore and hosting. https://disney-plus-io.web.app
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalefitzgerald&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
-- Create Spotify playlists on the go with Jammming, built using React and utilizes the Spotify-API. https://jammming-playlist.web.app  Hosted on Firebase.
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalefitzgerald&theme=gotham&exclude_repo=learnstorybook.com,odoo,hull-starter&hide_border=true&hide=Shell&layout=compact" />
 
-- Find the best places to eat, drink and have fun with Ravenous, built using React and utilizes the Yelp-API. https://ravenous-io.web.app  Hosted on firebase.
-
-
-
-
-
-https://user-images.githubusercontent.com/81391345/127519924-e8666116-5af4-4236-a682-089d84be38da.mp4
-
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=9a28d6b8-5177-4c61-9a00-f97fbb6fd024&theme=gotham&hide_border=true" />
 
 <!---
 DaleFitzgerald/DaleFitzgerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
