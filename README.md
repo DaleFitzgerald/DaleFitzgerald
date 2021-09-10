@@ -1,13 +1,30 @@
-# Hi there 👋
-# I'm [Dale Fitzgerald](https://www.linkedin.com/in/dale-fitzgerald), A Web Developer
----
+# 👋 Hey there, thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=#21b791)
 
-In a previous life I was a Metal Fabricator of 7+ years.
+## About me 
+In a previous life I was a Metal Fabricator of 7+ years. At the beginning of 2021 I decided to quit my job and <br>
+pursue my passion for coding full-time, to turn it into a career! 👨🏽‍💻 <br>
 Now dedicated Front End Developer, I spend most of my days learning online, designing & building things.
 
-Thanks for stopping by!
+## Tech Stack
+![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Back_End-Node_JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Front_End-React_JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Front_End-React-Native-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Styling-Styled_Components-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Storybook_JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CMS-Sanity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Version_control-git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CI/CD-Vercel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Testing-React_Testing_Library-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=#21b791)
+
+
+
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalefitzgerald&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
