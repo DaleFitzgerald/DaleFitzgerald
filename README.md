@@ -1,8 +1,8 @@
-Hi there, I'm [Dale Fitzgerald](https://www.linkedin.com/in/dale-fitzgerald) 
+Hi there, I'm [Dale Fitzgerald](https://www.linkedin.com/in/dale-fitzgerald)
 ---
 Thanks for stopping by!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=orange)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=#21b791)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dalefitzgerald&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 
