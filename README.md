@@ -1,6 +1,14 @@
-Thanks for coming! ![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=green&right_color=orange)
+Hi there, I'm [Dale Fitzgerald](https://www.linkedin.com/in/dale-fitzgerald) 
+---
+Thanks for stopping by!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalefitzgerald&theme=nightowl&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=orange)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalefitzgerald&theme=gotham&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalefitzgerald&theme=gotham&exclude_repo=learnstorybook.com,odoo,hull-starter&hide_border=true&hide=Shell&layout=compact" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=9a28d6b8-5177-4c61-9a00-f97fbb6fd024&theme=gotham&hide_border=true" />
 
 <!---
 DaleFitzgerald/DaleFitzgerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
