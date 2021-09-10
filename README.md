@@ -1,5 +1,10 @@
-Hi there, I'm [Dale Fitzgerald](https://www.linkedin.com/in/dale-fitzgerald)
+# Hi there 👋
+# I'm [Dale Fitzgerald](https://www.linkedin.com/in/dale-fitzgerald), A Web Developer
 ---
+
+In a previous life I was a Metal Fabricator of 7+ years.
+Now dedicated Front End Developer, I spend most of my days learning online, designing & building things.
+
 Thanks for stopping by!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=#21b791)
