@@ -30,7 +30,7 @@ Now dedicated Front End Developer, I spend most of my days learning online, desi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalefitzgerald&theme=gotham&exclude_repo=learnstorybook.com,odoo,hull-starter&hide_border=true&hide=Shell&layout=compact" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=9a28d6b8-5177-4c61-9a00-f97fbb6fd024&theme=gotham&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@9a28d6b8-5177-4c61-9a00-f97fbb6fd024&theme=gotham&hide_border=true" />
 
 <!---
 DaleFitzgerald/DaleFitzgerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
