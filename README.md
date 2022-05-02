@@ -3,7 +3,7 @@
 ## About me 
 Front End Developer for JD Sports in the Streetwear Division (size?, Footpatrol, the Hipstore, Oi Palloi & Wellgosh).<br>
 In a previous life I was a Metal Fabricator of 7+ years 👨🏽‍🏭 <br>
-At the beginning of 2021 I decided to quit my job and pursue my passion for coding full-time, to turn it into a career! 👨🏽‍💻 <br>
+At the end of 2020 I decided to pursue my passion for coding full-time, and turned it into a career! 👨🏽‍💻 <br>
 
 ## Stack
 ![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=F06529)
@@ -13,6 +13,7 @@ At the beginning of 2021 I decided to quit my job and pursue my passion for codi
 ![](https://img.shields.io/badge/-React_JS-informational?style=for-the-badge&logo=react&logoColor=white&color=61DBFB)
 ![](https://img.shields.io/badge/-Vue_JS-informational?style=for-the-badge&logo=vuedotjs&logoColor=41B883&color=35495E)
 ![](https://img.shields.io/badge/-Styled_Components-informational?style=for-the-badge&logo=styledcomponents&logoColor=white&color=FF6C75)
+
 ![](https://img.shields.io/badge/-Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=38bdf8)
 ![](https://img.shields.io/badge/-Node_JS-informational?style=for-the-badge&logo=nodedotjs&logoColor=303030&color=3C873A)
 ![](https://img.shields.io/badge/-Express-informational?style=for-the-badge&logo=express&logoColor=black&color=white)
