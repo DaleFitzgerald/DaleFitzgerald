@@ -1,25 +1,26 @@
 # 👋 Hey there, thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=#21b791)
 
 ## About me 
-In a previous life I was a Metal Fabricator of 7+ years. At the beginning of 2021 I decided to quit my job and <br>
-pursue my passion for coding full-time, to turn it into a career! 👨🏽‍💻 <br>
-Now dedicated Front End Developer, I spend most of my days learning online, designing & building things.
+Front End Developer for JD Sports in the Streetwear Division (size?, Footpatrol, the Hipstore, Oi Palloi & Wellgosh).<br>
+In a previous life I was a Metal Fabricator of 7+ years 👨🏽‍🏭 <br>
+At the beginning of 2021 I decided to quit my job and pursue my passion for coding full-time, to turn it into a career! 👨🏽‍💻 <br>
 
-## Tech Stack
-![](https://img.shields.io/badge/Editor-VS_code-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Back_End-Node_JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Front_End-React_JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Front_End-React-Native-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Styling-Styled_Components-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Storybook_JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Expo-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CMS-Sanity-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Version_control-git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CI/CD-Vercel-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Testing-React_Testing_Library-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## Stack
+![](https://img.shields.io/badge/-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=F06529)
+![](https://img.shields.io/badge/-Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=CD6799)
+![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=323330&color=F0DB4F)
+![](https://img.shields.io/badge/-JQuery-informational?style=for-the-badge&logo=jquery&logoColor=131B28&color=0868AC)
+![](https://img.shields.io/badge/-React_JS-informational?style=for-the-badge&logo=react&logoColor=white&color=61DBFB)
+![](https://img.shields.io/badge/-Vue_JS-informational?style=for-the-badge&logo=vuedotjs&logoColor=41B883&color=35495E)
+![](https://img.shields.io/badge/-Styled_Components-informational?style=for-the-badge&logo=styledcomponents&logoColor=white&color=FF6C75)
+![](https://img.shields.io/badge/-Tailwind_CSS-informational?style=for-the-badge&logo=tailwindcss&logoColor=white&color=38bdf8)
+![](https://img.shields.io/badge/-Node_JS-informational?style=for-the-badge&logo=nodedotjs&logoColor=303030&color=3C873A)
+![](https://img.shields.io/badge/-Express-informational?style=for-the-badge&logo=express&logoColor=black&color=white)
+![](https://img.shields.io/badge/-React_Router-informational?style=for-the-badge&logo=reactrouter&logoColor=white&color=B3001C)
+![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=FFE873&color=4B8BBE)
+![](https://img.shields.io/badge/-git-informational?style=for-the-badge&logo=git&logoColor=F1502F&color=white)
+![](https://img.shields.io/badge/-VS_code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8&color=595b5c)
+
 
 
 
@@ -31,8 +32,3 @@ Now dedicated Front End Developer, I spend most of my days learning online, desi
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalefitzgerald&theme=gotham&exclude_repo=learnstorybook.com,odoo,hull-starter&hide_border=true&hide=Shell&layout=compact" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@9a28d6b8-5177-4c61-9a00-f97fbb6fd024&theme=gotham&hide_border=true" />
-
-<!---
-DaleFitzgerald/DaleFitzgerald is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
