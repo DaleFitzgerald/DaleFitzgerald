@@ -1,7 +1,7 @@
 # 👋 Hey there, thanks for stopping by! ![visitors](https://visitor-badge.glitch.me/badge?page_id=dalefitzgerald.dalefitzgerald&left_color=#0C1014&right_color=#21b791)
 
 ## About me 
-I'm a Front End Developer for JD Sports' Streetwear Division (size?, Footpatrol, the Hipstore, Oi Palloi & Wellgosh).<br>
+I'm a Frontend Developer for JD Sports' Streetwear Division (size?, Footpatrol, the Hipstore).<br>
 In a previous life I was a Metal Fabricator of 7+ years 👨🏽‍🏭 <br>
 At the end of 2020 I decided to pursue my passion for coding full-time, and turned it into a career! 👨🏽‍💻 <br>
 
