@@ -3,7 +3,7 @@
 ## About me 
 I'm a Frontend Developer for JD Sports' Streetwear Division (size?, Footpatrol, the Hipstore).<br>
 In a previous life I was a Metal Fabricator of 7+ years 👨🏽‍🏭 <br>
-At the end of 2020 I decided to pursue my passion for coding full-time, and turned it into a career! 👨🏽‍💻 <br>
+In 2020 I decided to pursue my passion for coding full-time, and turned it into a career! 👨🏽‍💻 <br>
 
 
 Here is what's in my "Backpack" currently:
