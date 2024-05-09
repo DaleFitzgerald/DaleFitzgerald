@@ -1,7 +1,7 @@
 # 👋 Hi there, thanks for stopping by! [![HitCount](https://hits.dwyl.com/DaleFitzgerald/READMEmd.svg?style=flat-square&show=unique)](http://hits.dwyl.com/DaleFitzgerald/READMEmd)
 
 ## About me 
-I'm a Frontend Developer for JD Sports' Streetwear Division (size?, Footpatrol, the Hipstore).<br>
+I'm a Full Stack Developer for JD Sports' Streetwear Division (size?, Footpatrol, the Hipstore).<br>
 In a previous life I was a Metal Fabricator of 7+ years 👨🏽‍🏭 <br>
 In 2020 I decided to pursue my passion for coding full-time, and turned it into a career! 👨🏽‍💻 <br>
 
